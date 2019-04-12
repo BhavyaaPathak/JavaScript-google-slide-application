@@ -1,4 +1,4 @@
-# extra-credit-assignment-ppt-BhavyaaPathak
+# Google-slide application
 This repository consists of a Google Slide application in JavaScript, HTML,CSS Language along with .git Ignore and Readme files. The functionality of the assignment is as follows:
 
 A user can have number of text boxes by clicking on Text. Each text box has property of text editing i.e., Bold, Italics, Underline, Heading, and Link. User will be able to browse the system and add images as many as desired.
